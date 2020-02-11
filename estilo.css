@@ -1,0 +1,60 @@
+/*                                           */
+/* Pablo Michó Fernández                     */
+/*                                           */
+/* CSS ejercicio: Refranes sobre educación   */
+/*                                           */
+/* 11/02/2020                                */
+/*                                           */
+body {
+    font-family: sans-serif;
+    font-size: 25px;
+}
+  
+h1 {
+    border: solid 5px black;
+    text-align: center;
+    text-transform: uppercase;
+}
+  
+p {
+    text-align: justify;
+}
+
+p.Parrafo1 {
+    border-left: double 20px red;
+    border-top: double 20px red;
+}
+
+p.Parrafo2 {
+    border-color: blue green;
+    border-width: 5px 10px 20px 40px;
+    border-style: dashed;
+}
+
+p.Parrafo3 {
+    border-color: gold;
+    border-width: 40px 10px;
+    border-style: double;
+}
+
+p.Parrafo4 {
+    border-color: lime black blue;
+    border-width: 20px;
+    border-style: solid none;
+}
+
+p.Parrafo5 {
+    border-color: red black black;
+    border-width: 40px;
+    border-style: dashed solid dotted;
+}
+
+p.Parrafo6 {
+    border-color: black black black red;
+    border-width: 10px 40px 20px;
+    border-style: dotted solid dashed double;
+}
+
+address {
+    font-size: 50%;
+}
